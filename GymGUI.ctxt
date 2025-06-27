@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GymGUI
+comment1.params=label
+comment1.target=void\ labelFonts(javax.swing.JLabel)
+comment2.params=button1
+comment2.target=void\ headingButtonFonts(javax.swing.JButton)
+comment3.params=button2
+comment3.target=void\ otherButtonFonts(javax.swing.JButton)
+comment4.params=combo
+comment4.target=void\ comboBoxColour(javax.swing.JComboBox)
+comment5.params=
+comment5.target=GymGUI()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
